@@ -55,7 +55,7 @@
   🤝 Open to collaborate on: <b>AI_Models & <b>Something Crazyy!!</b><br>
   🌱 Actively learning: <b>DSA</b><br>
   👨🏻‍💻 Most of my projects live here on <a href="https://github.com/Manan-S85">GitHub</a><br>
-  🎨 Designing in Figma + experimenting with SVG animations<br>
+  🤖 Training ML models + tinkering with AI APIs<br>
   💬 Always happy to talk tech — feel free to reach out on <a href="https://www.linkedin.com/in/manansinh-sandhaliya-0b6569251">LinkedIn</a><br>
   📄 Curious? <a href="https://github.com/Manan-S85/Resume/blob/main/Manan_Resume.pdf">Check out my Resume</a><br>
 </ul>
