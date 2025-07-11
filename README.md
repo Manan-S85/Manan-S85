@@ -1,6 +1,6 @@
 <!-- Visitor badge -->
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SolarisXD.SolarisXD" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Manan-S85.Manan-S85" alt="visitor badge" />
 </p>
 
 <!-- Typing animation -->
@@ -107,9 +107,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SolarisXD/SolarisXD/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SolarisXD/SolarisXD/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SolarisXD/SolarisXD/output/pacman-contribution-graph.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manan-S85/Manan-S85/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manan-S85/Manan-S85/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Manan-S85/Manan-S85/output/pacman-contribution-graph.svg" width="100%">
   </picture>
 </div>
 
