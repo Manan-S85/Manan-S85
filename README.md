@@ -33,7 +33,7 @@
 <p align="center">
  Hi, I'm <b>MANAN SANDHALIYA</b> — ⚡ Digital Alchemist | Polymathic Builder | Eternal Explorer 🧠, and eternal learner!<br><br>
 
-  🚀 I’m a <b></b> who adapts quickly and wears many hats — whether it’s <b>Full Stack Web Developer</b> 🌐, <b>ML Model Developer</b> 📱, <b>ML Engineer</b> 🤖. I enjoy exploring new tech stacks and leveraging them to build exciting, meaningful projects 🛠️.<br><br>
+  🚀 I’m <b></b> someone who adapts quickly and wears many hats — whether it’s <b>Full Stack Web Developer</b> 🌐, <b>ML Model Developer</b> 📱, <b>ML Engineer</b> 🤖. I enjoy exploring new tech stacks and leveraging them to build exciting, meaningful projects 🛠️.<br><br>
   
   🔬 Currently pursuing B.Tech in <b>Computer Science (Specialization in AI & ML)</b> from <b>VIT Bhopal University</b><br>
   💻 Building a <b>personalized AI assistant</b>.
