@@ -119,7 +119,7 @@
 
 <div align="center">
   <!-- First Repository -->
-  <a href="https://github.com/Manan-S85/DeceptiNet" target="_blank">
+  <a href="https://github.com/Manan-S85/MirAI-2.0" target="_blank">
     <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Manan-S85&repo=MirAI-2.0&theme=react&border_color=61dafb&border_radius=10" />
   </a>
   &nbsp;&nbsp;&nbsp;
