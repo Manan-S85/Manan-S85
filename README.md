@@ -124,8 +124,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- Second Repository -->
-  <a href="https://github.com/Manan-S85/MirAI" target="_blank">
-    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Manan-S85&repo=MirAI&theme=react&border_color=61dafb&border_radius=10" />
+  <a href="https://github.com/Manan-S85/DeceptiNet" target="_blank">
+    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Manan-S85&repo=DeceptiNet&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 </div>
 
